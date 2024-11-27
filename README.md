@@ -1,5 +1,5 @@
 - 👋 Hi, I’m João
-- 👀 I’m interested in Front-End Development, Graphic and UI Design!
+- 👀 I’m interested in Front-End Development and UI/UX Design!
 - 🌱 I’m currently learning HTML, CSS and JS
 - 📫 How to reach me: joaovlopes.design@gmail.com
 
